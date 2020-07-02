@@ -2,7 +2,7 @@
 
 ## Empty Board
 
-<img src="images/empty-board.png">
+<img src="images/empty-board.png" width="50%">
 
 
 ## Project setup
