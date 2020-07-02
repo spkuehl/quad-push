@@ -1,5 +1,10 @@
 # quad-push
 
+## Empty Board
+
+<img src="images/empty-board.png>
+
+
 ## Project setup
 ```
 yarn install
